@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Laboratio03-00084021</string>
+    <string name="cantidad_de_dinero">Cantidad de dinero</string>
+    <string name="_1_00">$1.00</string>
+    <string name="_0_25">$0.25</string>
+    <string name="_0_10">$0.10</string>
+    <string name="_0_05">$0.05</string>
 </resources>
